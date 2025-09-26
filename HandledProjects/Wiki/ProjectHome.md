@@ -1,26 +1,33 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md
 
 [Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Learn/LearnHome.md
 
-[Sec Standards]:{Page]#design-standards
-[Sec Details]:[Page]#project-details
-[Sec Layout]:[Page]#system-layout
+[Sec Standards]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md#design-standards
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md#project-details
+[Sec Layout]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md#system-layout
 
-[Proj Parent]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Proj Parent]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md
+[Proj Parent Versions]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
 
 [Tag Proj NonVer]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Tag Proj Versioner]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-# Realms Wiki Collections: "[Project Name]" - Project
+[Team Management]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Social Docu]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Team Proj Design]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-Welcome to the project documentation for [Project Name].
+[Sys Linker]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+
+# Realms Wiki Collections: "Biorecycle Experiment Public Wiki" - Project
+
+Welcome to the project documentation for Biorecycle Experiment Public Wiki.
 
 
 ## Collection Index
 
 - [Home][Page Home] 
+	- [Handler Project][Proj Parent]
 	- Project(You are here)
 		- [Systems][Sec Layout]
 	- [Learning][Page Learn Home]
@@ -38,23 +45,26 @@ This feature is currently under work.
 
 ### Project Details
 
-- [Project Name]
+- Biorecycle Experiment Public Wiki
 	- Tags
 		- [NonVersioned][Tag Proj NonVer]
-		- [Versioner][Tag Proj Versioner]< [[Parent Project]][Proj Parent], [Versioning][Proj Parent Versions]>
-	- Type: [Type]
-	- Category: [Category]
-	- Project ID: [UserID].[Category].[ProjID]
-	- Project ID Piece: [ProjectIDPiece]
+		- [Versioner][Tag Proj Versioner]< [E.AMT.Experiment.Green.Biorecycle][Proj Parent], [Versioning][Proj Parent Versions]>
+	- Type: Wiki
+	- Category: Social.Wiki
+	- Project ID: E.AMT.Experiment.Green.Biorecycle.Wiki
+	- Project ID Piece: ExpGreenBioRecWiki
 	- [Systems][Sec Layout]
 	- Team Access:
-		- None
+		- [E.AMT.Teams.Management][Team Management]< Full > 
+		- [E.AMT.Teams.Social.Docu][Team Social Docu]< Edit >
+		- [E.AMT.Teams.Projects.Design][Team Proj Design]< Edit > 
 	- Owner:
-		- [UserID]
+		- E.AMT
 
-[Project Desc]
+This project is the public Tutorial wiki for the given parent project.
 
 ### System Layout
 
 - Systems
+	- [Social Linker][Sys Linker]
 

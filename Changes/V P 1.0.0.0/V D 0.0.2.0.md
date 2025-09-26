@@ -1,4 +1,4 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
+[Page]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
 
 [Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -6,16 +6,16 @@
 [Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 [Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-[Page Change Previous]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Change Next]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
+[Page Change Previous]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
+[Page Change Next]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.3.0.md
 
-[Sec Details]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#details
-[Sec General]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#general-changes
-[Sec Proj]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#project-changes
-[Sec NewSys]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#new-systems
-[Sec ChangedSys]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#changed-systems
-[Sec Content]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#content-changes
-[Sec Fixes]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md#fixes
+[Sec Details]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#details
+[Sec General]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#general-changes
+[Sec Proj]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#project-changes
+[Sec NewSys]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#new-systems
+[Sec ChangedSys]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#changed-systems
+[Sec Content]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#content-changes
+[Sec Fixes]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#fixes
 
 
 # Realms Wiki Collections: "Experimental Recycle Ecosystem" - Changes - [version]
@@ -29,7 +29,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 		- [Systems][Page Sys Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
-		- V D 0.0.1.0 (You are here)
+		- [version] (You are here)
 
 ## Page Index
 
@@ -47,11 +47,11 @@ Welcome for the Update page for [version] here you can learn about what happened
 
 This section covers the details of this update including if it is the currently active update.
 
-This update was dedicated to inital setup.
+This update was dedicated to providing more space and transportation for ants.
 
 - Data
 	- State Name: None
-	- Previous
+	- [Previous][Page Change Previous]
 	- [Next][Page Change Next]
 	- Status: Finished
 
@@ -60,8 +60,10 @@ This update was dedicated to inital setup.
 The following is a list of the general project changes that happend durring this update, these are changes that do not fit into the other categories of changes.
 
 - Changes
-	- Inital setup
-	- Started basic Ant Seeding
+	- Expanded number of containers
+	- Seeded additional Ants
+	- Added basic transport paths
+	- Updated basic transport paths
 
 ### Project Changes
 

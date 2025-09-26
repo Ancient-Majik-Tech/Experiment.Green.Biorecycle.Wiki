@@ -14,7 +14,7 @@
 [Sec Feat Planned]:[page]#key-planned-features
 
 
-# Realms Wiki Collections: "[Project Name]" - Home
+# Realms Wiki Collections: "Experimental Recycle Ecosystem " - Home
 
 Welcome to the main page for the [Realms Wiki Collection][Page Learn.Tutorial.Home] for our [Category] Project, "[Project Name]".
 

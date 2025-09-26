@@ -24,7 +24,7 @@
 
 [Sec Release ET1]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
 
-# Realms Wiki Collection: "[Project Name]" - Project - Roadmap
+# Realms Wiki Collection: "Experimental Recycle Ecosystem " - Project - Roadmap
 
 ## Collection Index
 
