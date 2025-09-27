@@ -1,10 +1,10 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.3.0.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Sys Home]:[ProjHome]#system-layout
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Learn/LearnHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/ChangesHome.md
 
 [Page Change Previous]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
 [Page Change Next]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
@@ -19,15 +19,15 @@
 
 [Proj Wiki]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/HandledProjects/Wiki/ProjectHome.md
 
-[Sys ColonyHost]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Sys ColonyHost]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/Systems/ColonyHostSys.md
 [Sys Paths]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Sys Input]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Sys Output]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Sys Compost]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Sys Input]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/Systems/InputSys.md
+[Sys Output]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/Systems/OutputSys.md
+[Sys Training]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/Systems/TrainingSys.md
 
-# Realms Wiki Collections: "Experimental Recycle Ecosystem" - Changes - [version]
+# Realms Wiki Collections: "Experimental Recycle Ecosystem" - Changes - V D 0.0.3.0
 
-Welcome for the Update page for [version] here you can learn about what happened in this release.
+Welcome for the Update page for V D 0.0.3.0 here you can learn about what happened in this release.
 
 ## Site Index
 
@@ -36,7 +36,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 		- [Systems][Page Sys Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
-		- [version] (You are here)
+		- V D 0.0.3.0 (You are here)
 
 ## Page Index
 
@@ -71,6 +71,8 @@ The following is a list of the general project changes that happend durring this
 	- Added Wiki Project
 	- Updated Transportation
 	- Started documentation
+	- Full Wiki Documentation
+
 
 ### Project Changes
 
@@ -99,7 +101,8 @@ The following is a list of the new systems along with the number of starting fea
 	- [Travel Path Extentions][Sys Paths]
 	- [Processing Input Zones][Sys Input]
 	- [Non Organics and Trash Output][Sys Output]
-	- [Organism Hosted Compostion][Sys Compost]
+	- [Passive Species Domestication][Sys Training]
+
 
 ### Changed Systems
 

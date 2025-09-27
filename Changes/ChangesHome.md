@@ -1,15 +1,16 @@
-[Page]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
+[Page]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/ChangesHome.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Sys Home]:[ProjHome]#system-layout
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Learn/LearnHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/ChangesHome.md
 
 [Page Changes V1]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
 [Page Changes V2]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
 [Page Changes V3]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.3.0.md
 
-[Sec ReleaseBoard]:[page]#latest-releases-board
+[Sec ReleaseBoard]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/ChangesHome.md#latest-releases-board
 
 # Realms Wiki Collections: "Experimental Recycle Ecosystem" - Changes - Home
 

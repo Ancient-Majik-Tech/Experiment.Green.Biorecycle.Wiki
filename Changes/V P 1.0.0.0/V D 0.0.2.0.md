@@ -1,10 +1,10 @@
 [Page]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md
 
-[Page Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Sys Home]:[ProjHome]#system-layout
-[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
-[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Learn.Tutorial.Collections/blob/main/Project/Extends/ProjectUpdateInWorks.md
+[Page Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/README.md
+[Page Proj Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md
+[Page Sys Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Project/ProjectHome.md#system-layout
+[Page Learn Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Learn/LearnHome.md
+[Page Changes Home]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/ChangesHome.md
 
 [Page Change Previous]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.1.0.md
 [Page Change Next]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.3.0.md
@@ -18,9 +18,9 @@
 [Sec Fixes]:https://github.com/Ancient-Majik-Tech/Experiment.Green.Biorecycle.Wiki/blob/main/Changes/V%20P%201.0.0.0/V%20D%200.0.2.0.md#fixes
 
 
-# Realms Wiki Collections: "Experimental Recycle Ecosystem" - Changes - [version]
+# Realms Wiki Collections: "Experimental Recycle Ecosystem" - Changes - V D 0.0.2.0
 
-Welcome for the Update page for [version] here you can learn about what happened in this release.
+Welcome for the Update page for V D 0.0.2.0 here you can learn about what happened in this release.
 
 ## Site Index
 
@@ -29,7 +29,7 @@ Welcome for the Update page for [version] here you can learn about what happened
 		- [Systems][Page Sys Home]
 	- [Learning][Page Learn Home]
 	- [Changes][Page Changes Home]
-		- [version] (You are here)
+		- V D 0.0.2.0 (You are here)
 
 ## Page Index
 
